@@ -9,8 +9,7 @@
 body {
   overflow: hidden;
   background: #0a0a0af8;
-  max-width: 1280px;
-}
+  }
 
 .back-groud {
   background: -o-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
